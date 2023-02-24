@@ -1,9 +1,5 @@
-// Exercício 01 - Write a program to print your name in Dart
-
-void meuNome(var x) {
-  print("Meu nome é $x!");
-}
+// Exercício 01 - Write a program to print your name in Dart.
 
 void main() {
-  meuNome("Luis");
+  print("Meu nome é Luis");
 }
