@@ -1,4 +1,4 @@
-# dart_modulo01
+# Módulo 01
 
 Aqui estão as respostas para os exercícios do primeiro módulo de Dart!
 
